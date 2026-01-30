@@ -1,0 +1,5 @@
+{
+  "name": "Sakura Study - AI JLPT Tutor",
+  "description": "An intelligent JLPT N5/N4 study companion. Features 'Study Mode' for learning items one-by-one and 'Quiz Mode' for testing, with full Myanmar language support.",
+  "requestFramePermissions": []
+}
