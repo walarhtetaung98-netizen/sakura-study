@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Header } from './components/Header';
+import { Header } from './components/Header.tsx';
 import { Dashboard } from './components/Dashboard';
 import { QuizCard } from './components/QuizCard';
 import { StudyCard } from './components/StudyCard';
